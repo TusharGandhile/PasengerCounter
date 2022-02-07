@@ -1,0 +1,21 @@
+body{
+    text-align:center;
+    background-image:url('st.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+    
+}
+h1,h2,p{
+    color:honeydew;
+}
+button{
+    display:block;
+    margin:auto;
+    margin-bottom: 5px;
+    background:aquamarine;
+    width:200px;
+    height:30px;
+    border-radius:2px;
+    border:none;
+    text-decoration-style:bold;
+}
